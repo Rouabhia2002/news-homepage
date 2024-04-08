@@ -1,0 +1,36 @@
+header{
+    height: 70px;
+   
+
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.logo{
+    width: 42px;
+    height: 31px;
+}
+
+.hamburger {
+    cursor: pointer;
+    width: 50px;
+    height: 15px;
+
+}
+
+.hamburger div {
+    display: block;
+    width: 50px;
+    height: 5px;
+    background-color: $Verydarkblue;
+    margin-bottom: 5px;
+}
+
+
+   
+
+
